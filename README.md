@@ -1,6 +1,8 @@
 # Contact-GraspNet Baseline for GraspClutter6D
 
-**GraspClutter6D** (RA-L 2025) · [[Paper]](https://arxiv.org/abs/2504.06866) [[Website]](https://sites.google.com/view/graspclutter6d) [[Dataset]](https://huggingface.co/datasets/GraspClutter6D/GraspClutter6D) [[Video]](https://youtu.be/NkKkfVS5wZ4)
+**GraspClutter6D** (RA-L 2025 & ICRA 2026) 
+
+[[Paper]](https://arxiv.org/abs/2504.06866) [[Website]](https://sites.google.com/view/graspclutter6d) [[Dataset]](https://huggingface.co/datasets/GraspClutter6D/GraspClutter6D) [[Video]](https://youtu.be/NkKkfVS5wZ4)
 
 | Repository | Description |
 |---|---|
