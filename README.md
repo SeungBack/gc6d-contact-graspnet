@@ -6,7 +6,7 @@
 |---|---|
 | [graspclutter6dAPI](https://github.com/SeungBack/graspclutter6dAPI) | Dataset toolkit — annotation loading, grasp evaluation |
 | [gc6d-pose-anno](https://github.com/SeungBack/gc6d-pose-anno) | 6D object pose annotation tool (BOP format) |
-| **gc6d-contact-graspnet* | 6-DoF grasp detection baseline **(this repo)** |
+| **gc6d-contact-graspnet** | 6-DoF grasp detection baseline **(this repo)** |
 
 ---
 
