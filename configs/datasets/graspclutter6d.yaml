@@ -1,0 +1,7 @@
+NAME: GraspClutter6D
+DATA_PATH: ${GC6D_ROOT}  # or set directly: /path/to/GraspClutter6D
+NUM_POSITIVE_CONTACTS: 4000
+CAMERA: realsense-d435
+RANDOM_SAMPLE: False
+RANDOM_ROTATE: False
+

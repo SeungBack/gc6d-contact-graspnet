@@ -1,0 +1,7 @@
+NAME: GraspNet1B
+DATA_PATH: ${G1B_ROOT}  # or set directly: /path/to/GraspNet-1Billion
+NUM_POSITIVE_CONTACTS: 4000
+CAMERA: realsense
+RANDOM_SAMPLE: False
+RANDOM_ROTATE: False
+

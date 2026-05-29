@@ -1,0 +1,12 @@
+tensorboardX
+easydict
+tqdm
+packaging
+PyYAML
+ruamel.yaml
+open3d
+h5py
+scipy
+trimesh
+matplotlib
+autolab-core

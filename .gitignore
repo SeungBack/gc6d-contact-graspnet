@@ -1,0 +1,15 @@
+experiments/
+.vscode/
+dump/
+*.pyc
+__pycache__/
+*.pth
+ckpts/
+FoundGrasp/
+*.egg-info/
+build/
+dist/
+*.so
+*.claude/
+*.codex/
+*.agents/
